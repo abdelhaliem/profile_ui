@@ -143,7 +143,7 @@ class ProFileScreen extends StatelessWidget {
                     ],
                   ),
                 ),
-                subtitle: Text("user Age"),
+                subtitle: Text("user address"),
                 leading: Icon(
                   Icons.home,
                   color: Colors.blue,
